@@ -1,7 +1,9 @@
 {
   "name": "ionic-rocketjump",
+  "description": "Rocketjump integration for Ionic",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.es.js",
   "license": "MIT",
   "scripts": {
     "test": "jest",
@@ -9,6 +11,15 @@
     "prebuild": "rimraf lib",
     "build": "rollup -c"
   },
+  "bugs": {
+    "url": "https://github.com/inmagik/ionic-rocketjump/issues"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "ionic",
+    "rocketjump"
+  ],
   "peerDependencies": {
     "@ionic/react": "^5.0.0",
     "react": "^16.8.0",
