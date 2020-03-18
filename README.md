@@ -7,9 +7,9 @@ Ionic :gem: + Rocketjump :rocket: = :heart:
 
 ```js
 // Choose between react or redux rj
-import { rj } from 'react-rocketjump'
+import { rj, deps } from 'react-rocketjump'
 // or
-import { rj } from 'redux-rocketjump'
+import { rj, deps } from 'redux-rocketjump'
 
 import { useIonRunRj } from 'ionic-rocketjump'
 
@@ -25,7 +25,7 @@ const [state, actions] = useIonRunRj(RjObject, [
   cleanOnNewEffect: true,
   // Should trigger run on ionViewDidEnter default: true
   runOnEnter: true,
-  // Should trigger clean on useIonViewDidLeave default: false
+  // Should trigger clean on ionViewDidLeave default: false
   cleanOnLeave: false,
 })
 ```
