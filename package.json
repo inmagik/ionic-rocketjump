@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
+  "repository": "https://github.com/inmagik/ionic-rocketjump",
   "license": "MIT",
   "scripts": {
     "test": "jest",
