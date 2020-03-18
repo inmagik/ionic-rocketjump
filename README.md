@@ -23,9 +23,9 @@ const [state, actions] = useIonRunRj(RjObject, [
 ], {
   // Should trigger clean on new effect? Default: true
   cleanOnNewEffect: true,
-  // Should trigger run on ionViewDidEnter default: true
+  // Should trigger run on ionViewDidEnter Default: true
   runOnEnter: true,
-  // Should trigger clean on ionViewDidLeave default: false
+  // Should trigger clean on ionViewDidLeave Default: false
   cleanOnLeave: false,
 })
 ```
