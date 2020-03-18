@@ -1,0 +1,6 @@
+{
+  "name": "ionic-rocketjump/react",
+  "private": true,
+  "main": "../lib/react.cjs.js",
+  "module": "../lib/react.es.js"
+}

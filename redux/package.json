@@ -1,0 +1,6 @@
+{
+  "name": "ionic-rocketjump/redux",
+  "private": true,
+  "main": "../lib/redux.cjs.js",
+  "module": "../lib/redux.es.js"
+}

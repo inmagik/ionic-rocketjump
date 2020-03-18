@@ -1,0 +1,10 @@
+/node_modules
+/src
+.babelrc.js
+.eslintrc.json
+rollup.config.js
+/example
+webpack.config.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
