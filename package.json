@@ -24,8 +24,8 @@
   "peerDependencies": {
     "@ionic/react": "^5.0.0",
     "react": "^16.8.0",
-    "react-rocketjump": "^3.0.0",
-    "redux-rocketjump": "^2.2.0"
+    "react-rocketjump": "^2.2.0",
+    "redux-rocketjump": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
