@@ -1,7 +1,7 @@
 {
   "name": "ionic-rocketjump",
   "description": "Rocketjump integration for Ionic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "repository": "https://github.com/inmagik/ionic-rocketjump",
